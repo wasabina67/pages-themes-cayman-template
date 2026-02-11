@@ -1,5 +1,3 @@
-# Months of the Year
-
 | # | Month | Abbreviation |
 |---|-------|--------------|
 | 1 | January | Jan |
